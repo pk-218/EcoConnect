@@ -1,17 +1,16 @@
 <img align="left" height="50" width="50" src="https://github.com/azeez-72/EcoConnect/blob/main/images/EcoConnect_logo.png">
 
-# EcoConnect - Google Solution Challenge 2021 #
-## by Team **Coders.ktx** ##
+# EcoConnect - Google Developers Solution Challenge 2021 
 
-### Team Members: ###
+### Team Coders.ktx
 
 * Pankaj Khushalani - pankajkk218@gmail.com
 * Azeez Dandawala - officialazeezamd@gmail.com
 * Prasad Thakare - thakareprasad80@gmail.com
 
-## Description: ##
+## Description
 
-### We aim to solve the targets: ###
+### We aim to solve the targets:
 1. Solid Waste Management under the **Goal 11 - Sustainable Cities.**
 2. Improving recycling rates under the **Goal 12 - Responsible Consumption & Production.**
 
@@ -22,10 +21,13 @@
   Edge, a ML model is used to classify images of garbage. Thus, the user becomes aware of
   what can be donated and is given a means of whom/where to donate.
   
-  #### **You can find the APK for our app [here](https://drive.google.com/file/d/1QHJarmEV6bEPQdcAdwpQ9CB54-tf7U2Z/view?usp=sharing)** ####
-  #### **Demonstration of our app on [YouTube](https://youtu.be/bsOMK3T-6Yw)** ####
+  #### **You can find the APK for our app [here](https://drive.google.com/file/d/1QHJarmEV6bEPQdcAdwpQ9CB54-tf7U2Z/view?usp=sharing)**
+  #### **Demonstration of our app on [YouTube](https://youtu.be/bsOMK3T-6Yw)**
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=bsOMK3T-6Yw" target="_blank">
+    <img src="http://img.youtube.com/vi/bsOMK3T-6Yw/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+  </a>
   
-## Tech Stack: ##
+## Tech Stack
 * We built an Android mobile application using the programming language Kotlin. MVVM (Model-View-ViewModel) architecture was followed throughout for ease of scaling and smooth communication with the UI.
 
 * For the backend, Firebase was used extensively.
@@ -39,9 +41,9 @@
 
 * Git and GitHub were used for version control and effective collaboration.
   
-## Steps to install ##
+## Installation ##
   
-Clone the app in your direcory using:
+Clone the app in your directory using:
 
 ```bash
 git clone https://github.com/azeez-72/EcoConnect.git
